@@ -1,0 +1,7 @@
+Organize the results from all models in a table, having the following columns:
+1. Model name 
+2. MSE 
+3. R2
+4. Prediction function
+5. Residual plot
+

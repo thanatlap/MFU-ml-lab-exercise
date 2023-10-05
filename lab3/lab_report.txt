@@ -1,0 +1,7 @@
+Organize the results from all models in a table, having the following columns:
+1. Model name 
+2. F1 
+3. Precision
+4. Recall
+5. Accuracy
+6. Decision boundary (hard)
