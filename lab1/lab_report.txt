@@ -1,6 +1,10 @@
-Organize the results from all models in a table, having the following columns:
-1. Model name 
-2. F1 
-3. Precision
-4. Recall
-5. Accuracy
+Summarize the important steps in data science pipeline (as discussed in class)
+For each step, briefly discuss
+1. The purpose and/or the actions required in each step. Why is it important?
+2. Include *your* specific decisions/actions your have chosen in each step, for example:
+- If any, include the proportions of data used in each setting
+- If any, include the list of features used in the prediction task
+- If any, include the model name and configuration
+- If any, include the results e.g. F1, precision, recall, accuracy
+
+Be concise! Even though we do not set an upper limit on the summary report, please keep it below 300 words.
