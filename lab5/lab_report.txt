@@ -1,0 +1,15 @@
+Part 1: organize the results from all experiments in a table, having the following columns:
+1. Selected features
+2. Model name 
+3. F1 
+4. Precision
+5. Recall
+6. Accuracy
+
+Part 2: organize the results from all experiments in a table, having the following columns:
+1. Feature visualization (from test set)
+2. Model name 
+3. F1 
+4. Precision
+5. Recall
+6. Accuracy
